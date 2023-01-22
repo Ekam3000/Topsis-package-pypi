@@ -57,4 +57,4 @@ topsis sample.csv "1,1,1,1" "+,+,-,+"
 
 ## License
 
-https://github.com/Ekam3000/Python-Package-TOPSIS/blob/main/LICENSE
+https://github.com/Ekam3000/Topsis-package-pypi/blob/master/LICENSE.unknown
